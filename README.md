@@ -8,7 +8,7 @@ To Contribute to this repository follow these commands in your Terminal:
 
 1. Clone the Repository
 
-- ` git clone https://github.com/hack2skill/qrcodeGenerator.git`
+- ` git clone https://github.com/saxenaprachi/budget-h2stc.git`
 
 2. After cloning the repository install all dependencies
 
